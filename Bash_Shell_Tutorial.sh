@@ -81,7 +81,7 @@ do
 					[Ee]* ) cat $1 | awk '{print $0 " # " NR}'
 						cat $1 | awk '{print $0 " # " NR}' > temp.txt
 						flag=2;;
-                                        * ) echo "Please Enter Y or N";;
+                                        * ) echo "Please Enter S or E";;
                                 esac;;
 
 			5 ) read -p "Enter Variablename to be changed : " word
