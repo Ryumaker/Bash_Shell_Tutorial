@@ -7,7 +7,8 @@ It is used for performing basic text transformations on an input stream (a file 
 and extracting part of a file using pattern matching or substituting in a convenient way.
 
 ### :star2: awk
-awk is a script language developed in Unix, and its basic function is to process and output input data in text form by line and word.  
+awk is a script language developed in Unix,  
+and its basic function is to process and output input data in text form by line and word.  
 It was named 'awk' after the first letters of the three names that created the script language.
 
 ### :pencil2: Usage
